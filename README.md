@@ -157,7 +157,7 @@ For the carbon-neutrality backcasting analysis, an estimated eLR of **8.52%** wa
 
 The Absolute Sustainability Assessment estimated that the current Danish PLA system exceeds its allocated climate Safe Operating Space by approximately:
 
-**77.6×**
+**The current Danish PLA system exceeds its allocated climate Safe Operating Space by approximately 77.6×.**
 
 This suggests that incremental efficiency improvements alone are insufficient.
 
@@ -216,6 +216,7 @@ My main contributions included:
 - analysing prospective environmental impacts under **SSP1 and SSP2**
 - contributing to the **background-system analysis**
 - modelling and interpreting **environmental learning effects and technological doubling-time scenarios**
+- developing the **sustainability roadmap** and linking prospective results with absolute sustainability targets
 - contributing to the discussion of **burden shifting, technological learning, and methodological limitations**
 - supporting the integration and interpretation of results in the final report
 
