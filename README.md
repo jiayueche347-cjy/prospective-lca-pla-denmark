@@ -80,7 +80,7 @@ Technology growth was represented using doubling time (`Td`), including:
 
 A backcasting approach was subsequently used to estimate the learning conditions required to achieve predefined environmental targets.
 
-### 4. Absolute Sustainability
+### 4. Absolute Sustainability Assessment
 
 An Absolute Sustainability Assessment was used to compare the estimated environmental impact of the Danish PLA system with its allocated share of the global **Safe Operating Space (SOS)**.
 
@@ -155,9 +155,7 @@ For the carbon-neutrality backcasting analysis, an estimated eLR of **8.52%** wa
 
 ### Relative improvement does not automatically imply absolute sustainability
 
-The Absolute Sustainability Assessment estimated that the current Danish PLA system exceeds its allocated climate Safe Operating Space by approximately:
-
-**The current Danish PLA system exceeds its allocated climate Safe Operating Space by approximately 77.6×.**
+The Absolute Sustainability Assessment estimated that the current Danish PLA system exceeds its allocated climate Safe Operating Space by approximately **77.6×**.
 
 This suggests that incremental efficiency improvements alone are insufficient.
 
